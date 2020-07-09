@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd"[]>
+<!-- Created with XMetaL 4.6 (http://www.xmetal.com) -->
+<dita xml:space="preserve">
+    <topic id="topic_B99BAEBEE2B34E5F8703C34601D0A9DE" audience="internal">
+        <title>Aardvark</title>
+        <shortdesc />
+        <body>
+            <p>Aardvarks eat mostly termites.</p>
+            <p>Do not accept the aardvarks' offer to come to deal with your termite problem. You
+                will <b>not</b> like the results.</p>
+            <note type="danger" id="nofeeding">Do not feed animals snacks, scraps, or people
+            food.</note>
+        </body>
+    </topic>
+</dita>

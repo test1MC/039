@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd"[]><!-- Created with XMetaL 4.6 (http://www.xmetal.com) --><dita xml:space="preserve">
+    <topic id="topic_B99BAEBEE2B34E5F8703C34601D0A9DE" audience="internal">
+        <title>砻קยด1ตว融</title>
+        <shortdesc />
+        <body>
+            <p>砻קยด2ตว融</p>
+            <p>砻קยด3ตว融</p>
+            <note type="danger" id="nofeeding">砻קยด4ตว融</note>
+        </body>
+    </topic>
+</dita>

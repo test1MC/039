@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="sl" xml:lang="sl" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenConrefs="false" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="3500964c-b06b-41bf-a23c-95ffc62dbdf8">
+    <ProjectFile Source="Target/zoo.ditamap" Target="Target/zoo.ditamap" />
+</LingoProject>
